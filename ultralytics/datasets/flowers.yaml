@@ -1,0 +1,9 @@
+# Pear flower YOLO dataset
+# Run YOLO from the ultralytics-main project directory.
+path: datasets
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: pear flower
